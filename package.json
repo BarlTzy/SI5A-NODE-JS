@@ -1,0 +1,14 @@
+{
+  "name": "si5a-node-js",
+  "version": "1.0.0",
+  "description": "Belajar membuat projek NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Muhammad Akbar",
+  "license": "ISC"
+}
